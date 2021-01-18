@@ -227,7 +227,7 @@
 
 <tr>
 <td align = "center"><img src="https://dss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3033037627,542595666&fm=58&s=ADC2DB03C04F3CFECBA57CA30100F092" width=400 height=500></td>
-<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/bc8a0c27384185745af47f7703b66e648f51bdfa.jpg" width=400 height=500></td>
+<td align = "center"><img src="https://img9.doubanio.com/view/photo/l/public/p1666781399.webp" width=400 height=500></td>
 </tr>
 
 <tr>
