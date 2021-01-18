@@ -57,8 +57,6 @@
 <td align = "center" ><b>待更新?</b></td>
 </tr>
 
-
-
 <tr>
 <td align = "center"><img src="http://i2.hdslb.com/bfs/archive/48702ae0a18cbb7b1da88b424bb90a5d53442753.jpg" width=400 height=300></td>
 <td align = "center"><img src="https://i.loli.net/2021/01/18/fnhLp1RqFvlZk9c.jpg" width=400 height=300></td>
@@ -66,8 +64,24 @@
 
 <tr>
 <td align = "center" >用作者自己制作的程序引擎<a href="https://github.com/3b1b/manim">manim</a>驱动生成的科普动画</td>
-<td align = "center" ><b>待更新?</b></td>
 </tr>
+
+
+<tr>
+<td align = "center" ><a href="https://www.bilibili.com/video/BV12t4y1z76S?"><b>进击的巨人最终季第六集 调查兵团为什么都胖了？【他她漫漫聊】</b></a></td>
+
+</tr>
+
+<tr>
+<td align = "center"><img src="http://i2.hdslb.com/bfs/archive/d36fbe5e9d32a443a361f9f2e1b487fd46da29a8.jpg" width=400 height=300></td>
+
+</tr>
+
+<tr>
+<td align = "center" >巨人第六集</td>
+
+</tr>
+
 
 </table>
 
