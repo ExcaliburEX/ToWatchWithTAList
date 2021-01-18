@@ -13,15 +13,12 @@
 
 
 
-
-
-<br/><br/><br/><br/>
-
-
 <div align="center">
 
 [![HitCount](http://hits.dwyl.com/ExcaliburEX/ToWatchWithTAList.svg)](http://hits.dwyl.com/ExcaliburEX/ToWatchWithTAList)
+
 <a href=""><img src="https://img.shields.io/github/commit-activity/m/ExcaliburEX/ToWatchWithTAList.svg?color=blue&style=for-the-badge" alt="img"  width="260px"></a><a href=""><a href=""><img src="https://img.shields.io/badge/Watch--Frequency-Every%20Day-important?style=for-the-badge" alt="img"  width="260px"></a><a href=""><img src="https://img.shields.io/badge/Movie--Categories-3-ff69b4?style=for-the-badge" alt="img"  width="260px"></a>
+
 <img src="https://img.shields.io/github/last-commit/ExcaliburEX/ToWatchWithTAList.svg?color=blue&style=for-the-badge" alt="img" width="200px"></a>
 
 
