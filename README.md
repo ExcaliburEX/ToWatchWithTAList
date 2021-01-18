@@ -301,4 +301,24 @@
 <td align = "center" >戛纳电影节</td>
 </tr>
 
+
+
+<tr>
+<td align = "center" ><a href="https://v.qq.com/x/cover/s98tprsvaizkrkd.html"><b>济公 「1993」</b></a></td>
+
+</tr>
+
+<tr>
+<td align = "center"><img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2352111993.webp" width=400 height=500></td>
+
+</tr>
+
+<tr>
+<td align = "center" >星爷比较特殊的作品</td>
+
+</tr>
+
+
+
+
 </table>
