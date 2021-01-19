@@ -331,10 +331,38 @@
 </tr>
 
 
+<tr>
+<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep267650?theme=movie?from=search&seid=10404385295689925903"><b>禁闭岛 「2010」</b></a></td>
+<td align = "center" ><a href="hhttps://www.bilibili.com/video/BV18s411r7B9?from=search&seid=13778907267315643091"><b>迷雾 「2007」</b></a></td>
+</tr>
+
+<tr>
+<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/83425a82c6bfa1e3189f98f14815490ec0491c96.jpg" width=400 height=500></td>
+<td align = "center"><img src="https://i0.hdslb.com/bfs/archive/99296e5d10e16760b7a77b5f6f7485ee0fd0ba96.jpg" width=400 height=500></td>
+</tr>
+
+<tr>
+<td align = "center" >上世纪关于神经科学治疗方法的学派之争</td>
+<td align = "center" >史蒂芬·金1980年同名中篇小说</td>
+</tr>
 
 
 
+<tr>
+<td align = "center" ><a href="https://v.qq.com/x/cover/1weku8f23n0j12s.html"><b>美丽人生 「1997」</b></a></td>
+<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ss34094/?from=search&seid=3131933212635967586"><b>闪灵 「1980」</b></a></td>
 
+</tr>
+
+<tr>
+<td align = "center"><img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2578474613.webp" width=400 height=500></td>
+<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/f664ef006aef5236f810f91490ca4e35b4519fe2.jpg" width=400 height=500></td>
+</tr>
+
+<tr>
+<td align = "center" >第71届奥斯卡奖获得了最佳外语片、最佳男主角、最佳配乐三项奖项</td>
+<td align = "center" >Here's Johnny!</td>
+</tr>
 
 
 </table>
