@@ -69,15 +69,18 @@
 
 <tr>
 <td align = "center" ><a href="https://www.bilibili.com/video/BV12t4y1z76S?"><b>进击的巨人最终季第六集 调查兵团为什么都胖了？【他她漫漫聊】</b></a></td>
+<td align = "center" ><a href="https://www.bilibili.com/video/BV1Bh411y7tK?"><b>进击的巨人最终季动画大改动暗埋巨人大伏笔？战槌巨人、艾伦、戴巴家主、兽巨吉克之间隐藏了秘密？！剧透注意！【他她漫漫聊】</b></a></td>
 
 </tr>
 
 <tr>
 <td align = "center"><img src="http://i2.hdslb.com/bfs/archive/d36fbe5e9d32a443a361f9f2e1b487fd46da29a8.jpg" width=400 height=300></td>
+<td align = "center"><img src="https://i1.hdslb.com/bfs/archive/3e2fdf04bd0f469465de538ce42ec0acbd1cbd7b.jpg" width=400 height=300></td>
 
 </tr>
 
 <tr>
+<td align = "center" >巨人第六集</td>
 <td align = "center" >巨人第六集</td>
 
 </tr>
@@ -289,20 +292,7 @@
 <td align = "center" >第80届奥斯卡奖的四项重量级大奖</td>
 </tr>
 
-<tr>
-<td align = "center" ><a href="https://v.qq.com/x/cover/s98tprsvaizkrkd.html"><b>济公 「1993」</b></a></td>
 
-</tr>
-
-<tr>
-<td align = "center"><img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2352111993.webp" width=400 height=500></td>
-
-</tr>
-
-<tr>
-<td align = "center" >星爷比较特殊的作品</td>
-
-</tr>
 
 
 
@@ -364,5 +354,22 @@
 <td align = "center" >Here's Johnny!</td>
 </tr>
 
+<tr>
+<td align = "center" ><a href="https://v.qq.com/x/cover/s98tprsvaizkrkd.html"><b>济公 「1993」</b></a></td>
+<td align = "center" ><a href="https://www.baidu.com/link?url=iy8fiSqi0akqZ6iqM_nYuLQUXJiF5rRJTg3P09tN_5oRhIsjdQ54-IcgIGq0FUt_HfO_kqQYKLB-s3zdC6Zh8FtiNCmSrHIzWyBMxhMyGrBe0F1qSR0v7EpJj_Ks445o&wd=&eqid=ffead2e300045d3d000000056009b12d"><b>回魂夜  「1995」</b></a></td>
+
+</tr>
+
+<tr>
+<td align = "center"><img src="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2352111993.webp" width=400 height=500></td>
+<td align = "center"><img src="https://dss1.baidu.com/6ONXsjip0QIZ8tyhnq/it/u=3705381067,1109868293&fm=58&s=1A076984C62844BF6F9490C5030050DB" width=400 height=500></td>
+
+</tr>
+
+<tr>
+<td align = "center" >星爷比较特殊的作品</td>
+<td align = "center" >搞怪鬼片</td>
+
+</tr>
 
 </table>
