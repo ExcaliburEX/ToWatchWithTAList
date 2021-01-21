@@ -69,7 +69,7 @@
 
 <tr>
 <td align = "center" ><a href="https://www.bilibili.com/video/BV12t4y1z76S?"><b>进击的巨人最终季第六集 调查兵团为什么都胖了？【他她漫漫聊】</b></a></td>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV1Bh411y7tK?"><b>进击的巨人最终季动画大改动暗埋巨人大伏笔？战槌巨人、艾伦、戴巴家主、兽巨吉克之间隐藏了秘密？！剧透注意！【他她漫漫聊】</b></a></td>
+<td align = "center" ><a href="https://www.bilibili.com/video/BV1Bh411y7tK?"><b>进击的巨人最终季动画大改动暗埋巨人大伏笔？</b></a></td>
 
 </tr>
 
