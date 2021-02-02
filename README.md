@@ -423,12 +423,17 @@
 
 <table>
 <tr>
-<th colspan="6">2021.01 ♑🐐</th>
+<th colspan="21">2021.01 ♑🐐</th>
 </tr>
 
 
 
 <tr>
+<td colspan="3" align = "center" >25</td>
+<td colspan="3" align = "center" >26</td>
+<td colspan="3" align = "center" >27</td>
+<td colspan="3" align = "center" >28</td>
+<td colspan="3" align = "center" >29</td>
 <td colspan="3" align = "center" >30</td>
 <td colspan="3" align = "center" >31</td>
 </tr>
@@ -441,9 +446,39 @@
 <td align = "center" >🏋🏻</td>
 <td align = "center" >🤸🏻</td>
 <td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
 </tr>
 
 <tr>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
 <td align = "center" >60</td>
 <td align = "center" >60</td>
 <td align = "center" >90</td>
