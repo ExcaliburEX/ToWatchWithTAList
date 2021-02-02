@@ -1,8 +1,4 @@
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
 
@@ -15,7 +11,7 @@
 
 <div align="center">
 
-[![HitCount](http://hits.dwyl.com/ExcaliburEX/ToWatchWithTAList.svg)](http://hits.dwyl.com/ExcaliburEX/ToWatchWithTAList)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=ExcaliburEX.ToWatchWithTAList)
 
 <a href=""><img src="https://img.shields.io/github/commit-activity/m/ExcaliburEX/ToWatchWithTAList.svg?color=blue&style=for-the-badge" alt="img"  width="260px"></a><a href=""><a href=""><img src="https://img.shields.io/badge/Watch--Frequency-Every%20Day-important?style=for-the-badge" alt="img"  width="260px"></a><a href=""><img src="https://img.shields.io/badge/Movie--Categories-3-ff69b4?style=for-the-badge" alt="img"  width="260px"></a>
 
@@ -34,6 +30,10 @@
 </a>
 
 </p>
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+
 
 
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
@@ -42,7 +42,9 @@
 - [1️⃣ 🅱🅸🅻🅸🅱🅸🅻🅸](#1️⃣-)
 - [2️⃣ 🎇 Animation](#2️⃣--animation)
 - [3️⃣ 🎞️ Cinema](#3️⃣-️-cinema)
-
+- [4️⃣ 🎤 KTV](#4️⃣--ktv)
+- [5️⃣ 🏋🏻🤸🏻🧘🏻‍♀️ 健身](#5️⃣-️-健身)
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 # 1️⃣ 🅱🅸🅻🅸🅱🅸🅻🅸 
 
 
@@ -67,23 +69,7 @@
 </tr>
 
 
-<tr>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV12t4y1z76S?"><b>进击的巨人最终季第六集 调查兵团为什么都胖了？【他她漫漫聊】</b></a></td>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV1Bh411y7tK?"><b>进击的巨人最终季动画大改动暗埋巨人大伏笔？</b></a></td>
 
-</tr>
-
-<tr>
-<td align = "center"><img src="http://i2.hdslb.com/bfs/archive/d36fbe5e9d32a443a361f9f2e1b487fd46da29a8.jpg" width=400 height=300></td>
-<td align = "center"><img src="https://i1.hdslb.com/bfs/archive/3e2fdf04bd0f469465de538ce42ec0acbd1cbd7b.jpg" width=400 height=300></td>
-
-</tr>
-
-<tr>
-<td align = "center" >巨人第六集</td>
-<td align = "center" >巨人第六集</td>
-
-</tr>
 
 
 </table>
@@ -110,6 +96,25 @@
 <td align = "center" >「上头」</td>
 </tr>
 
+
+
+<tr>
+<td align = "center" ><a href="https://www.bilibili.com/video/BV12t4y1z76S?"><b>进击的巨人最终季第六集 调查兵团为什么都胖了？【他她漫漫聊】</b></a></td>
+<td align = "center" ><a href="https://www.bilibili.com/video/BV1Bh411y7tK?"><b>进击的巨人最终季动画大改动暗埋巨人大伏笔？</b></a></td>
+</tr>
+
+<tr>
+<td align = "center"><img src="http://i2.hdslb.com/bfs/archive/d36fbe5e9d32a443a361f9f2e1b487fd46da29a8.jpg" width=400 height=300></td>
+<td align = "center"><img src="https://i1.hdslb.com/bfs/archive/3e2fdf04bd0f469465de538ce42ec0acbd1cbd7b.jpg" width=400 height=300></td>
+
+</tr>
+
+<tr>
+<td align = "center" >巨人第六集</td>
+<td align = "center" >巨人第六集</td>
+
+</tr>
+
 </table>
 
 # 2️⃣ 🎇 Animation
@@ -122,19 +127,19 @@
 
 <tr>
 <td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep341311"><b>咒术回战 「eposide 3/14*」</b></a></td>
-<td align = "center" ><a href="https://v.qq.com/x/cover/gu5m5d0ccelhqw9/r0026i211cw.html"><b>Steins Gate 「eposide 1/24」</b></a></td>
+<td align = "center" ><a href="https://v.qq.com/x/page/j0026kazyli.html"><b>命运石之门0 「eposide 2/24」</b></a></td>
 </tr>
 
 
 
 <tr>
 <td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/91e9534cc55aa1a6dc959e7d6d33bde970208232.png" width=400 height=500></td>
-<td align = "center"><img src="https://puui.qpic.cn/vcover_vt_pic/0/gu5m5d0ccelhqw9t1463722238.jpg/0" width=400 height=500></td>
+<td align = "center"><img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2518617828.webp" width=400 height=500></td>
 </tr>
 
 <tr>
 <td align = "center" >评分：<b>9️⃣.8️⃣, 热血</b></td>
-<td align = "center" >评分：<b>9️⃣.3️⃣，轮回</b></td>
+<td align = "center" >评分：<b>9️⃣.2️⃣, 前作的某一选择偏差后的基调很抑的世界线之旅</b></td>
 </tr>
 
 
@@ -206,6 +211,23 @@
 <th colspan="2">Watched 🌌</th>
 </tr>
 
+
+<tr>
+<td align = "center" ><a href="https://v.qq.com/x/cover/gu5m5d0ccelhqw9/r0026i211cw.html"><b>Steins Gate 「eposide 25/25」</b></a></td>
+</tr>
+
+
+
+<tr>
+<td align = "center"><img src="https://puui.qpic.cn/vcover_vt_pic/0/gu5m5d0ccelhqw9t1463722238.jpg/0" width=400 height=500></td>
+</tr>
+
+<tr>
+<td align = "center" >评分：<b>9️⃣.3️⃣，真由理还是红莉栖，穿越世界线的救赎</b></td>
+</tr>
+
+
+
 <tr>
 <td align = "center" ><a href=""><b>暂无</b></a></td>
 <td align = "center" ><a href=""><b>暂无</b></a></td>
@@ -258,39 +280,22 @@
 <tr>
 <td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep238592?theme=movie?from=search&seid=10053879220875999861"><b>夏日大作战 「2009」
 </b></a></td>
-<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep303157?theme=movie?from=search&seid=2168998059807397486"><b>降临 「2017」</b></a></td>
+<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep325385?theme=movie?from=search&seid=16322503979010974461"><b>湮灭 「2018」
+</b></a></td>
 </tr>
 
 
 
 <tr>
 <td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/578801a1e258af5ab0a83b56e5b4f6e905892247.jpg" width=400 height=500></td>
-<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/fdd961e5319b3def774db619c22323c55d83d77f.jpg" width=400 height=500></td>
+<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/24020967514673c5b039afd44bd363495edb2661.png" width=400 height=500></td>
 </tr>
 
 <tr>
 <td align = "center" >夏日的回忆</td>
-<td align = "center" >外星人</td>
-</tr>
-
-
-<tr>
-<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep325385?theme=movie?from=search&seid=16322503979010974461"><b>湮灭 「2018」
-</b></a></td>
-<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep261490?theme=movie?from=search&seid=4168180124580911524"><b>老无所依 「2007」</b></a></td>
-</tr>
-
-
-
-<tr>
-<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/24020967514673c5b039afd44bd363495edb2661.png" width=400 height=500></td>
-<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/bb9b1e30dabbd895cec75e8e9c159f135b6914da.jpg" width=400 height=500></td>
-</tr>
-
-<tr>
 <td align = "center" >诡异</td>
-<td align = "center" >第80届奥斯卡奖的四项重量级大奖</td>
 </tr>
+
 
 
 
@@ -370,6 +375,212 @@
 <td align = "center" >星爷比较特殊的作品</td>
 <td align = "center" >搞怪鬼片</td>
 
+</tr>
+
+
+
+
+
+<tr>
+</b></a></td>
+<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep261490?theme=movie?from=search&seid=4168180124580911524"><b>老无所依 「2007」</b></a></td>
+<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep303157?theme=movie?from=search&seid=2168998059807397486"><b>降临 「2017」</b></a></td>
+</tr>
+
+
+
+<tr>
+<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/bb9b1e30dabbd895cec75e8e9c159f135b6914da.jpg" width=400 height=500></td>
+<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/fdd961e5319b3def774db619c22323c55d83d77f.jpg" width=400 height=500></td>
+</tr>
+
+<tr>
+<td align = "center" >理性之人无处容身，病态的社会，即使是如今。</td>
+<td align = "center" >虽说是外星人，但其实是面对确定的人生是否还会继续，类似土狼对于正义的执着？</td>
+</tr>
+
+
+</table>
+
+
+# 4️⃣ 🎤 KTV
+
+- [ ] KTV之旅
+  - 朋友别哭
+  - 明天会更好
+  - ... 
+
+
+# 5️⃣ 🏋🏻🤸🏻🧘🏻‍♀️ 健身
+- 🏋🏻： `俯卧撑`
+- 🤸🏻： `仰卧起坐`
+- 🧘🏻‍♀️： `深蹲`
+
+
+
+
+
+
+<table>
+<tr>
+<th colspan="6">2021.01 🍻</th>
+</tr>
+
+
+
+<tr>
+<td colspan="3" align = "center" >30</td>
+<td colspan="3" align = "center" >31</td>
+</tr>
+
+
+<tr>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+</tr>
+
+<tr>
+<td align = "center" >60</td>
+<td align = "center" >60</td>
+<td align = "center" >90</td>
+<td align = "center" >90</td>
+<td align = "center" >90</td>
+<td align = "center" >95</td>
+</tr>
+
+
+
+</table>
+
+<table>
+<tr>
+<th colspan="21">2021.02 🍻</th>
+</tr>
+
+
+
+<tr>
+<td colspan="3" align = "center" >1</td>
+<td colspan="3" align = "center" >2</td>
+<td colspan="3" align = "center" >3</td>
+<td colspan="3" align = "center" >4</td>
+<td colspan="3" align = "center" >5</td>
+<td colspan="3" align = "center" >6</td>
+<td colspan="3" align = "center" >7</td>
+</tr>
+
+
+<tr>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+</tr>
+
+<tr>
+<td align = "center" >0</td>
+<td align = "center" >0</td>
+<td align = "center" >0</td>
+<td align = "center" >90</td>
+<td align = "center" >90</td>
+<td align = "center" >90</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+</tr>
+
+
+
+<tr>
+<td colspan="3" align = "center" >8</td>
+<td colspan="3" align = "center" >9</td>
+<td colspan="3" align = "center" >10</td>
+<td colspan="3" align = "center" >11</td>
+<td colspan="3" align = "center" >12</td>
+<td colspan="3" align = "center" >13</td>
+<td colspan="3" align = "center" >14</td>
+</tr>
+
+
+<tr>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+</tr>
+
+<tr>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
 </tr>
 
 </table>
