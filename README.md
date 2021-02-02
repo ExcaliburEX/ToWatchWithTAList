@@ -423,7 +423,7 @@
 
 <table>
 <tr>
-<th colspan="6">2021.01 🍻</th>
+<th colspan="6">2021.01 ♑🐐</th>
 </tr>
 
 
@@ -458,7 +458,7 @@
 
 <table>
 <tr>
-<th colspan="21">2021.02 🍻</th>
+<th colspan="21">2021.02 ♒🏺</th>
 </tr>
 
 
