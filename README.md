@@ -416,6 +416,7 @@
 - 🏋🏻： `俯卧撑`
 - 🤸🏻： `仰卧起坐`
 - 🧘🏻‍♀️： `深蹲`
+- 🛌🏻： `🛌🏻`
 
 
 
@@ -495,8 +496,8 @@
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
-<td colspan="3" align = "center" >😅 | keep瘦腿</td>
-<td colspan="3" align = "center" >😂 | keep瘦腿</td>
+<td colspan="3" align = "center" >😅 | 🛌🏻</td>
+<td colspan="3" align = "center" >😂 | 🛌🏻</td>
 </tr>
 
 </table>
@@ -570,8 +571,8 @@
 
 <tr>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
-<td colspan="3" align = "center" >🙃 | keep瘦腿</td>
-<td colspan="3" align = "center" >😌 | keep瘦腿</td>
+<td colspan="3" align = "center" >🙃 | 🛌🏻</td>
+<td colspan="3" align = "center" >😌 | 🛌🏻</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
@@ -649,3 +650,4 @@
 </tr>
 
 </table>
+
