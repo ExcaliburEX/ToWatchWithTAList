@@ -408,7 +408,8 @@
 - [ ] KTV之旅
   - 朋友别哭
   - 明天会更好
-  - ... 
+  - 遇见
+  - ...
 
 
 # 5️⃣ 🏋🏻🤸🏻🧘🏻‍♀️ 健身
@@ -437,6 +438,7 @@
 <td colspan="3" align = "center" >30</td>
 <td colspan="3" align = "center" >31</td>
 </tr>
+
 
 
 <tr>
@@ -487,7 +489,15 @@
 <td align = "center" >95</td>
 </tr>
 
-
+<tr>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙃 | keep瘦腿</td>
+<td colspan="3" align = "center" >😌 | keep瘦腿</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+</tr>
 
 </table>
 
@@ -540,9 +550,9 @@
 <td align = "center" >90</td>
 <td align = "center" >90</td>
 <td align = "center" >90</td>
-<td align = "center" >-</td>
-<td align = "center" >-</td>
-<td align = "center" >-</td>
+<td align = "center" >95</td>
+<td align = "center" >90</td>
+<td align = "center" >90</td>
 <td align = "center" >-</td>
 <td align = "center" >-</td>
 <td align = "center" >-</td>
@@ -569,6 +579,15 @@
 <td colspan="3" align = "center" >14</td>
 </tr>
 
+<tr>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+</tr>
 
 <tr>
 <td align = "center" >🏋🏻</td>
