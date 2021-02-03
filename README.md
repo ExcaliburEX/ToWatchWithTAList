@@ -491,12 +491,12 @@
 
 <tr>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
-<td colspan="3" align = "center" >🙃 | keep瘦腿</td>
-<td colspan="3" align = "center" >😌 | keep瘦腿</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
 <td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >😅 | keep瘦腿</td>
+<td colspan="3" align = "center" >😂 | keep瘦腿</td>
 </tr>
 
 </table>
@@ -568,6 +568,15 @@
 </tr>
 
 
+<tr>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙃 | keep瘦腿</td>
+<td colspan="3" align = "center" >😌 | keep瘦腿</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+<td colspan="3" align = "center" >🙆🏻‍♀️</td>
+</tr>
 
 <tr>
 <td colspan="3" align = "center" >8</td>
