@@ -47,75 +47,9 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 # 1️⃣ 🅱🅸🅻🅸🅱🅸🅻🅸 
 
-
-<table>
-
-<tr>
-<th colspan="2">Watching 💖</th>
-</tr>
-
-<tr>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV1bt41147H5?from=search&seid=3925884631583249942"><b>【官方双语】为什么方块碰撞能够用来计算π？</b></a></td>
-<td align = "center" ><b>待更新?</b></td>
-</tr>
-
-<tr>
-<td align = "center"><img src="http://i2.hdslb.com/bfs/archive/48702ae0a18cbb7b1da88b424bb90a5d53442753.jpg" width=400 height=300></td>
-<td align = "center"><img src="https://i.loli.net/2021/01/18/fnhLp1RqFvlZk9c.jpg" width=400 height=300></td>
-</tr>
-
-<tr>
-<td align = "center" >用作者自己制作的程序引擎<a href="https://github.com/3b1b/manim">manim</a>驱动生成的科普动画</td>
-</tr>
-
-
-
-
-
-</table>
-
-
-
-<table>
-<tr>
-<th colspan="2">Watched 🉑</th>
-</tr>
-
-<tr>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV1Yo4y1o7Dv?from=search&seid=17963004641788515808"><b>【暴走大事件第七季】12蓝 老专家解读宅男小秘密，王尼玛化解00后大危机</b></a></td>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV1yt4y1z7K7?from=search&seid=17100975750595938657"><b>上头买了张100年前的桌子，请问值￥8000吗?</b></a></td>
-</tr>
-
-<tr>
-<td align = "center"><img src="https://i1.hdslb.com/bfs/archive/5147460d60c4b278f701cb9b3dc7ec492959079f.jpg" width=400 height=300></td>
-<td align = "center"><img src="http://i0.hdslb.com/bfs/archive/2f36f3751323d31de6ac41a0e5a15f00febaf2fd.jpg" width=400 height=300></td>
-</tr>
-
-<tr>
-<td align = "center" >暴走七：12</td>
-<td align = "center" >「上头」</td>
-</tr>
-
-
-
-<tr>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV12t4y1z76S?"><b>进击的巨人最终季第六集 调查兵团为什么都胖了？【他她漫漫聊】</b></a></td>
-<td align = "center" ><a href="https://www.bilibili.com/video/BV1Bh411y7tK?"><b>进击的巨人最终季动画大改动暗埋巨人大伏笔？</b></a></td>
-</tr>
-
-<tr>
-<td align = "center"><img src="http://i2.hdslb.com/bfs/archive/d36fbe5e9d32a443a361f9f2e1b487fd46da29a8.jpg" width=400 height=300></td>
-<td align = "center"><img src="https://i1.hdslb.com/bfs/archive/3e2fdf04bd0f469465de538ce42ec0acbd1cbd7b.jpg" width=400 height=300></td>
-
-</tr>
-
-<tr>
-<td align = "center" >巨人第六集</td>
-<td align = "center" >巨人第六集</td>
-
-</tr>
-
-</table>
+- [ ] https://www.bilibili.com/video/BV1bU4y1x7A1
+- [ ] https://www.bilibili.com/video/BV11A411K72T
+- [ ] https://www.bilibili.com/video/BV1zT4y1K7sm
 
 # 2️⃣ 🎇 Animation
 
@@ -280,20 +214,19 @@
 <tr>
 <td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep238592?theme=movie?from=search&seid=10053879220875999861"><b>夏日大作战 「2009」
 </b></a></td>
-<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep325385?theme=movie?from=search&seid=16322503979010974461"><b>湮灭 「2018」
-</b></a></td>
+
 </tr>
 
 
 
 <tr>
 <td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/578801a1e258af5ab0a83b56e5b4f6e905892247.jpg" width=400 height=500></td>
-<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/24020967514673c5b039afd44bd363495edb2661.png" width=400 height=500></td>
+
 </tr>
 
 <tr>
 <td align = "center" >夏日的回忆</td>
-<td align = "center" >诡异</td>
+
 </tr>
 
 
@@ -399,7 +332,18 @@
 <td align = "center" >虽说是外星人，但其实是面对确定的人生是否还会继续，类似土狼对于正义的执着？</td>
 </tr>
 
+<tr>
+<td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep325385?theme=movie?from=search&seid=16322503979010974461"><b>湮灭 「2018」
+</b></a></td>
+</tr>
 
+<tr>
+<td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/24020967514673c5b039afd44bd363495edb2661.png" width=400 height=500></td>
+</tr>
+
+<tr>
+<td align = "center" >诡异</td>
+</tr>
 </table>
 
 
@@ -649,5 +593,235 @@
 <td colspan="3" align = "center" >🤷🏻‍♀️</td>
 </tr>
 
+
+
+
+
+
+
+<tr>
+<td colspan="3" align = "center" >15</td>
+<td colspan="3" align = "center" >16</td>
+<td colspan="3" align = "center" >17</td>
+<td colspan="3" align = "center" >18</td>
+<td colspan="3" align = "center" >19</td>
+<td colspan="3" align = "center" >20</td>
+<td colspan="3" align = "center" >21</td>
+</tr>
+
+
+
+<tr>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+</tr>
+
+<tr>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+</tr>
+
+<tr>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+</tr>
+
+
+
+
+
+
+
+<tr>
+<td colspan="3" align = "center" >22</td>
+<td colspan="3" align = "center" >23</td>
+<td colspan="3" align = "center" >24</td>
+<td colspan="3" align = "center" >25</td>
+<td colspan="3" align = "center" >26</td>
+<td colspan="3" align = "center" >27</td>
+<td colspan="3" align = "center" >28</td>
+</tr>
+
+
+
+<tr>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+</tr>
+
+<tr>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+</tr>
+
+<tr>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+<td colspan="3" align = "center" >🤷🏻‍♀️</td>
+</tr>
+
 </table>
 
+<table>
+<tr>
+<th colspan="21">2021.03 ♈🐏</th>
+</tr>
+
+<tr>
+<td colspan="3" align = "center" >1</td>
+<td colspan="3" align = "center" >2</td>
+<td colspan="3" align = "center" >3</td>
+<td colspan="3" align = "center" >4</td>
+<td colspan="3" align = "center" >5</td>
+<td colspan="3" align = "center" >6</td>
+<td colspan="3" align = "center" >7</td>
+</tr>
+
+
+<tr>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+<td align = "center" >🏋🏻</td>
+<td align = "center" >🤸🏻</td>
+<td align = "center" >🧘🏻‍♀️</td>
+</tr>
+
+<tr>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+<td align = "center" >-</td>
+</tr>
+
+
+<tr>
+<td colspan="3" align = "center" >🙋🏻‍♀️</td>
+<td colspan="3" align = "center" >🙋🏻‍♀️</td>
+<td colspan="3" align = "center" >🙋🏻‍♀️</td>
+<td colspan="3" align = "center" >🙋🏻‍♀️</td>
+<td colspan="3" align = "center" >🙋🏻‍♀️</td>
+<td colspan="3" align = "center" >🙋🏻‍♀️</td>
+<td colspan="3" align = "center" >🙋🏻‍♀️</td>
+</tr>
+
+
+
+</table>
