@@ -47,8 +47,8 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 # 1️⃣ 🅱🅸🅻🅸🅱🅸🅻🅸 
 
-- [ ] https://www.bilibili.com/video/BV1bU4y1x7A1
-- [ ] https://www.bilibili.com/video/BV11A411K72T
+- [x] https://www.bilibili.com/video/BV1bU4y1x7A1
+- [x] https://www.bilibili.com/video/BV11A411K72T
 - [ ] https://www.bilibili.com/video/BV1zT4y1K7sm
 
 # 2️⃣ 🎇 Animation
@@ -335,16 +335,42 @@
 <tr>
 <td align = "center" ><a href="https://www.bilibili.com/bangumi/play/ep325385?theme=movie?from=search&seid=16322503979010974461"><b>湮灭 「2018」
 </b></a></td>
+<td align = "center" ><a href="https://movie.douban.com/subject/35096844/"><b>送你一朵小红花 「2020」
+</b></a></td>
 </tr>
 
 <tr>
 <td align = "center"><img src="https://i0.hdslb.com/bfs/bangumi/image/24020967514673c5b039afd44bd363495edb2661.png" width=400 height=500></td>
+<td align = "center"><img src="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2618247457.webp" width=400 height=500></td>
 </tr>
 
 <tr>
 <td align = "center" >诡异</td>
+<td align = "center" >癌症，生命，信念，爱情</td>
 </tr>
+
+
+<tr>
+<td align = "center" ><a href="https://movie.douban.com/subject/34841067/"><b>你好，李焕英 「2021」
+</b></a></td>
+
+</tr>
+
+<tr>
+<td align = "center"><img src="https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2629056068.webp" width=400 height=500></td>
+
+</tr>
+
+<tr>
+<td align = "center" >等了很久很久</td>
+
+</tr>
+
+
+
 </table>
+
+
 
 
 # 4️⃣ 🎤 KTV
